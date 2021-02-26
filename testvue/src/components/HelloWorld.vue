@@ -13,10 +13,18 @@
       </li>
       <li>
         <a
-          href="https://forum.vuejs.org"
+          href="https://www.baidu.com"
           target="_blank"
         >
           Forum
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://www.baidu.com"
+          target="_blank"
+        >
+          Forum22222
         </a>
       </li>
       <li>
