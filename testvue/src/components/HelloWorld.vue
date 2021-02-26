@@ -13,7 +13,7 @@
       </li>
       <li>
         <a
-          href="https://forum.vuejs.org"
+          href="https://www.baidu.com"
           target="_blank"
         >
           Forum
@@ -21,7 +21,7 @@
       </li>
       <li>
         <a
-          href="https://chat.vuejs.org"
+          href="https://www.baidu.com"
           target="_blank"
         >
           Community Chat
@@ -29,7 +29,7 @@
       </li>
       <li>
         <a
-          href="https://twitter.com/vuejs"
+          href="https://www.baidu.com"
           target="_blank"
         >
           Twitter
@@ -38,7 +38,7 @@
       <br>
       <li>
         <a
-          href="http://vuejs-templates.github.io/webpack/"
+          href="https://www.baidu.com"
           target="_blank"
         >
           Docs for This Template
@@ -49,7 +49,7 @@
     <ul>
       <li>
         <a
-          href="http://router.vuejs.org/"
+          href="https://www.baidu.com"
           target="_blank"
         >
           vue-router
@@ -57,7 +57,7 @@
       </li>
       <li>
         <a
-          href="http://vuex.vuejs.org/"
+          href="https://www.baidu.com"
           target="_blank"
         >
           vuex
@@ -65,7 +65,7 @@
       </li>
       <li>
         <a
-          href="http://vue-loader.vuejs.org/"
+          href="https://www.baidu.com"
           target="_blank"
         >
           vue-loader
