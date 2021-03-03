@@ -46,7 +46,7 @@
       <br>
       <li>
         <a
-          href="http://vuejs-templates.github.io/webpack/"
+          href="http://vuejs-templuuuuates.github.io/webpack/"
           target="_blank"
         >
           Docs for This Template
